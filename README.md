@@ -1,4 +1,4 @@
-# tpyesense_ubuntu
+# typesense_ubuntu
 Install typesense on Ubuntu
 
 ## curl -O https://dl.typesense.org/releases/0.23.1/typesense-server-0.23.1-amd64.deb
